@@ -1,0 +1,53 @@
+/* 
+#admin
+{
+    width: 45%;
+    height: 50%;
+    margin-left: 5%;
+    margin-top: 30%;
+    font-family: serif;
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+    float: left;
+}
+#librarian
+{
+    width: 45%;
+    height: 50%;
+    margin-right: 5%;
+    margin-top: 30%;
+    font-family: serif;
+    text-align: center;
+    font-size: 25px;
+    color: darkorange;
+    float: right;
+}
+body
+{
+    background-image: url(abc.jpg);
+    background-repeat: no-repeat;
+}
+.abc
+{
+    position: absolute;
+    width: 100%;
+    height: 55px;
+    font-size: 30px;
+}
+li
+{
+    position:static ;
+    color: white;
+    display: inline;
+    margin-left: 10px;
+    border: 2px solid white;
+    font-size: 20px;
+}
+a
+{
+    position: static;
+    color: white;
+    font-size: 25px;
+}
+*/
